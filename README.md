@@ -14,20 +14,7 @@
         <span class="logo-name">Ashish K Sharma</span>
       </a>
 
-      <button class="menu-toggle" id="menuToggle" aria-expanded="false" aria-controls="navLinks" aria-label="Open menu">
-        <span></span><span></span><span></span>
-      </button>
-
-      <nav class="nav-links" id="navLinks">
-        <a href="#about">About</a>
-        <a href="#journey">Journey</a>
-        <a href="#skills">Expertise</a>
-        <a href="#impact">Impact</a>
-        <a href="#work">Case Studies</a>
-        <a href="#recommendations">Recommendations</a>
-        <a class="nav-button" href="#contact">Let’s connect</a>
-      </nav>
-    </div>
+      
   </header>
 
   <main id="main">
