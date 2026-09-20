@@ -1,7 +1,4 @@
-Skip to content
-AKS Ashish K Sharma 
-About Expertise Selected Work Credentials Writing Connect
-AI • Product • Enterprise Technology • Aviation
+
 
 Transforming complex businesses with AI, product strategy & technology.
 I’m Ashish K Sharma, an AI transformation and technology leader with 12+ years of experience working across strategy, innovation, enterprise platforms, data and intelligent automation.
